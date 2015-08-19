@@ -17,15 +17,15 @@ Biweekly on TBA. Watch the listserv for announcements!
 [Tutoring](/Tutoring) is on Thursdays from 5 to 7 in TBA.
 
 ### Hackerspace (HatCH)
-[HatCH](/Hackerspace) meets in the CS Club room in Sitterson on Thursdays at 7.
+[HatCH](/Hackerspace) meets in the CS Club room in Sitterson (TBA).
 </div>
 
 Hackathons
 -------------
 <div class="group" markdown="1">
 ### HackNC
-October 25 - 26, 2014 <br>
-[website](http://hacknc.us/)
+October 9 - 11, 2015 <br>
+[website](http://hacknc.com/)
 
 ### Pearl Hacks
 TBA <br>

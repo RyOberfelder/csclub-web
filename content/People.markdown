@@ -16,14 +16,14 @@ the club itself.
 
 <div class="group" markdown="1">
 
-### Matt Leming <mleming@cs.unc.edu> {#mleming}
-Tutoring/Listserv/HackNC/administrivia. "The corrupt one."
+### Ryan Oberfelder <oberfeld@cs.unc.edu> {#oberfeld}
+Tutoring/Listserv/administrivia. "The short one."
 
-### Rahul Ramkumar <rramkuma@live.unc.edu> {#rramkuma}
-Interviews, job preparation, tutoring. Takes it personally when you rip on Java.
+### Forrest Li <fcli@live.unc.edu> {#fcli}
+Interviews, job preparation, doing things, knowing things. Actually a cat in the shape of a man
 
-### Roman Myers <rbmyers@live.unc.edu> {#rbmyers}
-One of the HatCH leaders, room renovator. Insists on writing his code in iambic pentameter.
+### Brandon Davis <bd@unc.edu> {#bd}
+Student government liaison and general extraordinaire.
 
 
 </div>
